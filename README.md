@@ -47,7 +47,37 @@ Materiales
 
 ![image](https://user-images.githubusercontent.com/105677231/184734145-cffc3949-b619-4a51-9d01-ceb082498280.png)
 
--Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
+**Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.**
+
+-Frecuencia: **0Hz**
+-Voltaje Pico: **6.84V**
+
+![image](https://user-images.githubusercontent.com/105677231/184734310-c6d3da0f-41ea-42c4-99a4-94efe7df54b2.png)
+
+-Frecuencia: **10Hz**
+-Voltaje Pico: **9.92V**
+
+![image](https://user-images.githubusercontent.com/105677231/184734358-d8a99200-1d0e-4c9d-862f-e63ec5803ea0.png)
+
+-Frecuencia: **50Hz**
+-Voltaje Pico: **8.45V**
+
+![image](https://user-images.githubusercontent.com/105677231/184734407-7ec6dc82-f7e7-467e-97a5-8173a88fd429.png)
+
+-Frecuencia: **100Hz**
+-Voltaje Pico: **6.19V**
+
+![image](https://user-images.githubusercontent.com/105677231/184734443-a1c3c788-ccfc-4c4a-ae29-d2c03f892cf7.png)
+
+-Frecuencia: **500Hz**
+-Voltaje Pico: **1.53V**
+
+![image](https://user-images.githubusercontent.com/105677231/184734496-aab00ce3-3f0c-4189-a049-bb68a468e6e5.png)
+
+-Frecuencia: **1000Hz**
+-Voltaje Pico: **0.721V**
+
+![image](https://user-images.githubusercontent.com/105677231/184734531-53e4dd57-0ec1-438a-8eba-391d787129a9.png)
 
 2.- Construya el circuito mostrado en la Figura 2
 

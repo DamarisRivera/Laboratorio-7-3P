@@ -43,6 +43,12 @@ Materiales
 
 ![image](https://user-images.githubusercontent.com/105617383/184667079-642f8d01-a235-4b15-940f-e0e0cdf03641.png)
 
+**Circuito Armado**
+
+![image](https://user-images.githubusercontent.com/105677231/184734145-cffc3949-b619-4a51-9d01-ceb082498280.png)
+
+-Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
+
 2.- Construya el circuito mostrado en la Figura 2
 
 ![image](https://user-images.githubusercontent.com/105617383/184667280-ceec558b-e050-48d2-8070-d0e619fd8e1e.png)

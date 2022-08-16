@@ -81,6 +81,36 @@ Materiales
 
 **Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los resultados.**
 
+-Frecuencia: **0Hz**
+-Voltaje: **7.035V**
+
+![image](https://user-images.githubusercontent.com/105677231/184981955-09e7dc46-de9e-4d6e-b2b9-e0c96da49032.png)
+
+-Frecuencia: **10Hz**
+-Voltaje: **6.98V**
+
+![image](https://user-images.githubusercontent.com/105677231/184982057-36e2a051-354f-487b-a503-ca0eda4c5467.png)
+
+-Frecuencia: **50Hz**
+-Voltaje: **5.96V**
+
+![image](https://user-images.githubusercontent.com/105677231/184982128-19485e5e-8b39-462b-8657-7953df6758d6.png)
+
+-Frecuencia: **100Hz**
+-Voltaje: **4.34V**
+
+![image](https://user-images.githubusercontent.com/105677231/184982205-f16258e3-ceb3-4a38-bc86-cac78ede030b.png)
+
+-Frecuencia: **500Hz**
+-Voltaje: **1.37V**
+
+![image](https://user-images.githubusercontent.com/105677231/184982288-5ab25b58-24a8-4984-968e-728ee70d9da9.png)
+
+-Frecuencia: **1000Hz**
+-Voltaje: **0.67V**
+
+![image](https://user-images.githubusercontent.com/105677231/184982384-fe992bc1-3316-430e-8a19-8eafe3555f76.png)
+
 
 
 2.- Construya el circuito mostrado en la Figura 2

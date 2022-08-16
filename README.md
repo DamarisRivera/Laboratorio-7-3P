@@ -118,7 +118,7 @@ Materiales
 
 ![image](https://user-images.githubusercontent.com/105617383/184667280-ceec558b-e050-48d2-8070-d0e619fd8e1e.png)
 
-**circuito Armado**
+**Circuito Armado**
 
 ![image](https://user-images.githubusercontent.com/105677231/184988889-fb6dfb97-3b8a-41a3-95fc-a284a0285bed.png)
 

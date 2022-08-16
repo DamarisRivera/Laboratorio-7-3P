@@ -79,6 +79,10 @@ Materiales
 
 ![image](https://user-images.githubusercontent.com/105677231/184734531-53e4dd57-0ec1-438a-8eba-391d787129a9.png)
 
+**Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los resultados.**
+
+
+
 2.- Construya el circuito mostrado en la Figura 2
 
 ![image](https://user-images.githubusercontent.com/105617383/184667280-ceec558b-e050-48d2-8070-d0e619fd8e1e.png)

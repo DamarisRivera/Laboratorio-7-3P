@@ -113,10 +113,46 @@ Materiales
 
 
 
+
 2.- Construya el circuito mostrado en la Figura 2
 
 ![image](https://user-images.githubusercontent.com/105617383/184667280-ceec558b-e050-48d2-8070-d0e619fd8e1e.png)
 
+**circuito Armado**
+
+![image](https://user-images.githubusercontent.com/105677231/184988889-fb6dfb97-3b8a-41a3-95fc-a284a0285bed.png)
+
+**Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.**
+
+-Frecuencia: **0Hz**
+-Voltaje Pico: **4.62V**
+
+![image](https://user-images.githubusercontent.com/105677231/184989031-33a79209-d117-4f2c-82f2-cba2d6b00d41.png)
+
+-Frecuencia: **10Hz**
+-Voltaje Pico: **0.304V**
+
+![image](https://user-images.githubusercontent.com/105677231/184989114-82b5e9ad-7fc6-4de3-8514-729dd6e87fd1.png)
+
+-Frecuencia: **50Hz**
+-Voltaje Pico: **1.52V**
+
+![image](https://user-images.githubusercontent.com/105677231/184989188-8e10ac43-d9ac-402a-b40e-5891b9bb8e18.png)
+
+-Frecuencia: **100Hz**
+-Voltaje Pico: **2.97V**
+
+![image](https://user-images.githubusercontent.com/105677231/184989261-42ef35c7-f2d0-40ae-b3dd-230fcfae6053.png)
+
+-Frecuencia: **500Hz**
+-Voltaje Pico: **8.41V**
+
+![image](https://user-images.githubusercontent.com/105677231/184989327-4ee809a7-92c7-4df0-9f1c-0032a69895fb.png)
+
+-Frecuencia: **1000Hz**
+-Voltaje Pico: **9.45V**
+
+![image](https://user-images.githubusercontent.com/105677231/184989397-a59f8ff0-3d99-4c8c-a25b-7bb60a4bd5bf.png)
 
 # 4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 

@@ -210,6 +210,7 @@ Materiales
 
 # 6.CONCLUSIONES
 
+* El presente laboratorio permitió conocer los temas relacionados con fuentes de corriente alterna y su comportamiento dentro de una circuito electrónico mediante la toma de medidas con un osciloscopio virtual, el simulador DCACLAB permitió satisfactoriamente conocer cómo se implementaría un osciloscopio en un laboratorio físico siendo de gran ayuda para incrementar los conocimientos acerca del tema y preparar al alumnado al momento de retornar a las practicas físicas dentro de un laboratorio real.
 
 # 7.BIBLIOGRAFÍA
 

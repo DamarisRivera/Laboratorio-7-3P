@@ -110,9 +110,38 @@ Materiales
 -Voltaje: **0.67V**
 
 ![image](https://user-images.githubusercontent.com/105677231/184982384-fe992bc1-3316-430e-8a19-8eafe3555f76.png)
+ 
+**Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.**
 
+-Frecuencia: **0Hz**
+-Corriente: **0.00233A**
 
+![image](https://user-images.githubusercontent.com/105617383/185220353-810d986a-d66b-444f-8f5b-dd24f045abe8.png)
 
+-Frecuencia: **10Hz**
+-Corriente: **0.087A**
+
+![image](https://user-images.githubusercontent.com/105617383/185221158-6f3c7cf8-e169-400d-a6d5-25a70ec074e2.png)
+
+-Frecuencia: **50Hz**
+-Corriente: **0.03819A**
+
+![image](https://user-images.githubusercontent.com/105617383/185221604-8c2ce383-7cb3-428b-996e-5d61abc0c5b2.png)
+
+-Frecuencia: **100Hz**
+-Corriente: **0.5125A**
+
+![image](https://user-images.githubusercontent.com/105617383/185221912-f88fe60f-56a5-41b3-bfc4-7c03a03c1bf9.png)
+
+-Frecuencia: **500Hz**
+-Corriente: **0.06805A**
+
+![image](https://user-images.githubusercontent.com/105617383/185222269-f767d448-7a28-4102-8676-f9378eddcd1d.png)
+
+-Frecuencia: **1000Hz**
+-Corriente: **0.04976**
+
+![image](https://user-images.githubusercontent.com/105617383/185222474-52f220c8-842c-4e5b-b404-90954b41f8a2.png)
 
 2.- Construya el circuito mostrado en la Figura 2
 

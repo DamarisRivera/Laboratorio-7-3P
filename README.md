@@ -247,7 +247,18 @@ Corriente: **0.02861A**
 
 ![image](https://user-images.githubusercontent.com/105617383/185282279-4703084c-6471-4d61-bb5e-d2f1ab76e6d7.png)
 
-# 4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
+# 4.ANÁLISIS DE RESULTADOS
+
+FIGURA 1.
+
+![image](https://user-images.githubusercontent.com/105671763/185283260-5347ca5b-1cfd-4a77-94dc-f97368fc32c2.png)
+
+FIGURA 2.
+
+![image](https://user-images.githubusercontent.com/105671763/185283372-deb91ba8-6edd-4b20-b16b-eee5153dddde.png)
+
+
+# 5.RESPUESTA A INTERROGANTES 
 
 **1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?**
 
@@ -269,15 +280,14 @@ Corriente: **0.02861A**
 
 * Los valores eficaces son los valores que tendria una corriente continua, la cual produjera la misma potencia de dicha corriente alterna, en otras palabras si se mide, por ejemplo, una tensión de 5 voltios en alterna, lo que dice el aparato de medida, es que esa onda en corriente alterna, transmite la misma cantidad de potencia que una señal de 5 voltios en corriente continua. Es por esto que se usa valores eficases, puesto que todas las formulas y procesos de calculos, tambein sirven em correinte alterna.
 
-# 5.VIDEO
+# 6.VIDEO
 
 https://youtu.be/mMKT_4-X6Gc
 
-# 6.CONCLUSIONES
+# 7.CONCLUSIONES
 
 * El presente laboratorio permitió conocer los temas relacionados con fuentes de corriente alterna y su comportamiento dentro de una circuito electrónico mediante la toma de medidas con un osciloscopio virtual, el simulador DCACLAB permitió satisfactoriamente conocer cómo se implementaría un osciloscopio en un laboratorio físico siendo de gran ayuda para incrementar los conocimientos acerca del tema y preparar al alumnado al momento de retornar a las practicas físicas dentro de un laboratorio real.
 
-# 7.BIBLIOGRAFÍA
+# 8.BIBLIOGRAFÍA
 
 Floyd, Thomas. 2007. Principios de circuitos eléctricos. Octava edición.
-

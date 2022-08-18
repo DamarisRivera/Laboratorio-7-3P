@@ -215,6 +215,37 @@ Materiales
 
 ![image](https://user-images.githubusercontent.com/105677231/185280069-3af54253-8399-4919-bdfe-2c7b54f937a9.png)
 
+**Utilice un multímetro para medir el corriente variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los resultados.**
+
+Frecuencia: **0Hz**
+Corriente: **0.03381A** 
+
+![image](https://user-images.githubusercontent.com/105617383/185280902-6b7466f2-51a5-40e5-b41d-51a233e474fc.png)
+
+Frecuencia: **10Hz**
+Corriente: **0.03381A** 
+
+![image](https://user-images.githubusercontent.com/105617383/185281229-8deeb52b-75c6-4a08-938a-7a49be0c4a4f.png)
+
+Frecuencia: **50Hz**
+Corriente: **0.03381A** 
+
+![image](https://user-images.githubusercontent.com/105617383/185281848-76a95840-73f0-46e8-a833-7ec26a70652b.png)
+
+Frecuencia: **100Hz**
+Corriente: **0.03381A** 
+
+![image](https://user-images.githubusercontent.com/105617383/185281973-3a567a4e-9238-481c-94db-af59f849098d.png)
+
+Frecuencia: **500Hz**
+Corriente: **0.03381A** 
+
+![image](https://user-images.githubusercontent.com/105617383/185282166-b571a658-99ae-4e3e-a579-c254c1dfe26f.png)
+
+Frecuencia: **1000Hz**
+Corriente: **0.03381A** 
+
+![image](https://user-images.githubusercontent.com/105617383/185282279-4703084c-6471-4d61-bb5e-d2f1ab76e6d7.png)
 
 # 4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 

@@ -183,6 +183,39 @@ Materiales
 
 ![image](https://user-images.githubusercontent.com/105677231/184989397-a59f8ff0-3d99-4c8c-a25b-7bb60a4bd5bf.png)
 
+**Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los resultados.**
+
+-Frecuencia: **0Hz**
+-Voltaje: **0.004V**
+
+![image](https://user-images.githubusercontent.com/105677231/185279759-cf66e994-95cd-4afe-ad51-2b1ec826fcdc.png)
+
+-Frecuencia: **10Hz**
+-Voltaje: **0.022V**
+
+![image](https://user-images.githubusercontent.com/105677231/185279841-829a6aca-e497-4dee-af33-1fc31c4f376f.png)
+
+-Frecuencia: **50 Hz**
+-Voltaje: **0.112 V**
+
+![image](https://user-images.githubusercontent.com/105677231/185279877-15852a1e-633b-46d1-b26a-46fab3e7ac8b.png)
+
+-Frecuencia: **100 Hz**
+-Voltaje: **0.228**
+
+![image](https://user-images.githubusercontent.com/105677231/185279949-f8a13340-c511-42a0-aa2a-ef6081afeefd.png)
+
+-Frecuencia: **500 Hz**
+-Voltaje: **1.14**
+
+![image](https://user-images.githubusercontent.com/105677231/185280011-dca486f8-2f07-416d-9fad-6b7f88dec41b.png)
+
+-Frecuencia: **1000 Hz**
+-Voltaje: **2.20 V**
+
+![image](https://user-images.githubusercontent.com/105677231/185280069-3af54253-8399-4919-bdfe-2c7b54f937a9.png)
+
+
 # 4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 **1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?**

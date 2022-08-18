@@ -253,10 +253,13 @@ FIGURA 1.
 
 ![image](https://user-images.githubusercontent.com/105671763/185283260-5347ca5b-1cfd-4a77-94dc-f97368fc32c2.png)
 
+Al comparar la frecuencia con el voltaje pico, se observa que a mayor frecuencia el voltaje pico medido con el osciloscopio y el voltaje medido con el multímetro disminuye, mientras que la corriente varía.
+
 FIGURA 2.
 
 ![image](https://user-images.githubusercontent.com/105671763/185283372-deb91ba8-6edd-4b20-b16b-eee5153dddde.png)
 
+Comparando los valores obtenidos con la frecuencia se observa que a mayor frecuencia el voltaje pico medido con el osciloscopio y el voltaje medido con el multímetro aumenta, la corriente varía.
 
 # 5.RESPUESTA A INTERROGANTES 
 
